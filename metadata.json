@@ -1,0 +1,6 @@
+{
+  "name": "MY PDF CONVERTOR",
+  "description": "Free multi-tool online PDF conversion suite - Convert PDF to Word, Excel, PowerPoint, JPG, PDF/A and convert files to PDF instantly with no file size limits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
